@@ -32,7 +32,7 @@ source /opt/pgclone/functions/deploylocal.sh
 source /opt/pgclone/functions/createtdrive.sh
 source /opt/pgclone/functions/bwlimit.sh
 ################################################################################
-rcloneinstall
+# rcloneinstall
 
 # (functions.sh) Ensures variables and folders exist
 pgclonevars
