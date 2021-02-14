@@ -34,6 +34,6 @@ user_allow_other
 EOF
 
         ansible-playbook /opt/pgclone/rclone.yml
-    fi
+   # fi
 
 }
